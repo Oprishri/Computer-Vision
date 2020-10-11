@@ -4,7 +4,7 @@ Computer vision is a field of artificial intelligence that trains computers to i
 
 ![alt_txt](https://github.com/Oprishri/Computer-Vision/blob/main/image.jpg)
 
-In this repository, I have work on 3 task. 
+In this repository, I have worked on 3 task. 
 
  1. Image classification of emergency vehicle.
  2. Image classificaion on Car dataset.
